@@ -1,16 +1,11 @@
-### Hi there 👋
+#### Hello hello, I am Isaac, a 14 year old programmer from Southern UK.
+##### *Mainstream languages I know include:*
+- ##### _Python_        :     Experienced 
+- ##### _Go_              :   Experienced
+- ##### _C#_              :   Intermediate
+- ##### _C# Unity_     :   Experienced
+- ##### _Javascript_   :   Intermediate
+- ##### _Java_            :   Amateur
+- ##### _C/C++_       :   Intermediate
 
-<!--
-**jibbystar/jibbystar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### School gets in the way of programming, so my apologies if my commits are speratic or not frequent.
