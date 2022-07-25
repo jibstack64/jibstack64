@@ -9,4 +9,4 @@ I started with C# (Unity), and worked my way up learning other languages.
 
 #### My projects
 
-You're going to see projects in or related to image manipulation, cryptography, and penetration testing coming from me, but I will distribute my interest evenly.
+You're going to see projects in or related to the image manipulation, cryptography, and penetration testing areas coming from me, but I will distribute my interest evenly.
