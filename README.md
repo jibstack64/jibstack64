@@ -1,12 +1,11 @@
-#### Hey, I'm Isaac, a 15 year old experienced programmer.
+#### Hey, I'm Isaac, a 15 year old hermit (programmer).
 
-I've been on the programming train since I was around 9, and have picked up Python, Go, Java, and C# (alongside a couple dozen other languages at a base-level).
+I've been on the programming train since a young age and have picked up Python, C++, Java, Golang and Unity C# (alongside a half-dozen other languages at a base to somewhat intermediary understanding).
 
 #### Experience
 
-I have the most experience with Python, but Go and C# come as a close second.
-I started with C# (Unity), and worked my way up learning other languages.
+Python! I love Python, both for its simplicity and inviting community. I have the most experience in the language as it is the first one I started programming in! Despite this, I have developed a good amount of experience with Java, Golang and C++ (in order).
 
 #### My projects
 
-You're going to see projects in or related to the image manipulation, cryptography, and penetration testing areas coming from me, but I will distribute my interest evenly.
+You're going to see projects in or related to the image manipulation, game-modding and penetration testing areas, coupled with what you can only class as "random shit".
