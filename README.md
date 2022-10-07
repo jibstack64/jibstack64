@@ -4,7 +4,7 @@ I've been on the programming train since a young age and have picked up Python, 
 
 #### Experience
 
-Python! I love Python, both for its simplicity and inviting community. I have the most experience in the language as it is the first one I started programming in! Despite this, I have developed a good amount of experience with Java, Golang and C++ (in order).
+Python! I love Python, both for its simplicity and inviting community. I have the most experience in the language as it is the first one I started programming in! Despite this, I have developed a good amount of experience with Java, Golang, C++ and more.
 
 #### My projects
 
