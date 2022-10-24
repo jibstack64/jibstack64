@@ -1,11 +1,9 @@
-#### Hey, I'm Isaac, a 15 year old hermit (programmer).
+#### Hey, I'm Isaac, a 15 year old software developer from Dorset, England.
 
-I've been on the programming train since a young age and have picked up Python, C++, Java, Golang and Unity C# (alongside a half-dozen other languages at a base to somewhat intermediary understanding).
+### Languages
 
-#### Experience
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 
-Python! I love Python, both for its simplicity and inviting community. I have the most experience in the language as it is the first one I started programming in! Despite this, I have developed a good amount of experience with Java, Golang, C++ and more.
+### About me
 
-#### My projects
-
-You're going to see projects in or related to the image manipulation, game-modding and penetration testing areas, coupled with what you can only class as "random shit".
+I hopped on the programming train when I was around 9; after installing Ubuntu because I'd found that my newly bought laptop had a dysfunctional Windows install, I began learning and trying things out in Python. Later, in the first year of secondary schooling, I would go on to make a few Unity games, such as Tyler Tap: mediocre, but still a golden relic lost to my old OneDrive storage. Like most, I did not learn lower-level programming languages until now what is my late teens. C, C++ and any language lower than Python scared me up until the age of 12/13, where I finally decided it was time to learn a language with more control, which I decided Go was the perfect candidate for. Not too complex, Python-similar syntax and fast compile times. By this point, I was (predominantly) using Windows on all of my devices, leading me to the realisation that Linux may be the way to go if I wanted to continue learning programming - although not necessary, it was still of large benifit to my skillset, and would force me to fix issues head-on and develop my own tools. This is where I decided that it was time to learn C, C++ and try out some Java development; to my surprise, it wasn't as difficult as I thought it would be, which is not surprising considering the experience I had accumulated in Python and Go by this point. This brings me to where I am now, 100s of projects lost to old, broken or reset drives and a new fondness towards the C and C++ languages (Holy C comes next).
