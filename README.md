@@ -9,4 +9,6 @@
 I began programming when I was 9, and slowly gathered more and more knowledge on programming, GNU/Linux and computer systems as a whole.
 I've always been infactuated with computers, my greatest enjoyment is developing and building my own software for various purposes. Generally, the majority of my programming skill has its roots in Python and C#, the first two languages I really attempted to master: over time I have slowly learned more languages as cases have arised where higher-level, slower languages just don't cut it.
 
+> If I am ever inactive for extended durations, I am most likely going through exams.
+
 *I use Void btw.* <img src="https://bitcu.co/en/wp-content/uploads/2020/07/Void_Linux_logo.svg_-1024x844.png" alt="void" width="40" height="25">
