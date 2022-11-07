@@ -11,4 +11,4 @@ I've always been infactuated with computers, my greatest enjoyment is developing
 
 > If I am ever inactive for extended durations, I am most likely going through exams.
 
-*I use Artix btw.* <img src="[https://bitcu.co/en/wp-content/uploads/2020/07/Void_Linux_logo.svg_-1024x844.png](https://static-00.iconduck.com/assets.00/artix-icon-500x512-e5st20aa.png)" alt="artix" width="40" height="25">
+*I use Artix btw.* <img src="https://static-00.iconduck.com/assets.00/artix-icon-500x512-e5st20aa.png" alt="artix" width="40" height="25">
