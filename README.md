@@ -15,7 +15,7 @@ I have also dabbled in cybersecurity and crypto, although not in great depth.
 I began programming when I was 9, and slowly gathered more and more knowledge on programming, GNU/Linux and computer systems as a whole.
 I've always been infactuated with computers, my greatest enjoyment is developing and building my own software for various purposes.
 
-The majority of my programming skill has its roots in Python and C#, the first two languages I really attempted to master. Over time, I have slowly learned more languages as cases have arised where higher-level, slower languages just don't cut it.
+The majority of my programming skill has its roots in Python, the first language I really attempted to master. Over time, I have slowly learned more languages as cases have arised where higher-level, slower languages just don't cut it.
 
 > If I am ever inactive for extended durations, I am most likely going through exams.
 
