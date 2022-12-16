@@ -6,6 +6,8 @@
 
 I would consider myself a software developer, but I do know my way around web development, I'm just not so fond of it.
 
+I'm currently in the process of learning Rust, due to its apparent superiority to most other modern systems languages.
+
 I have also dabbled in cybersecurity and crypto, although not in great depth.
 
 ---
