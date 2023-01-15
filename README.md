@@ -1,8 +1,8 @@
 <div>
   <p align="center">
-    <img style="z-index: 1;" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jibstack64&repo=field&theme=dracula">
-    <img style="z-index: 3;" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jibstack64&repo=trollcord&theme=dracula">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=jibstack64&show_icons=true&theme=dracula">
+    <img style="z-index: 1;" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=jibstack64&repo=field&theme=dracula">
+    <img style="z-index: 3;" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=jibstack64&repo=trollcord&theme=dracula">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=jibstack64&show_icons=true&theme=dracula">
   </p>
 </div>
 
