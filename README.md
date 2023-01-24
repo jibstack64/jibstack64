@@ -9,5 +9,5 @@ I have a wide skillset and am willing to do some freelancing. I *specialise* in 
 
 ### Contact me
 
-You can contact me through my [email](mailto:josephbedford@proton.me), [Instagram](https://instagram.com/isaacc1707), [Reddit](https://reddit.com/user/jibbbb1234) or [Discord](jibstack64#2141).
+You can contact me through my [email](mailto:josephbedford@proton.me), [Instagram](https://instagram.com/isaacc1707), [Reddit](https://reddit.com/user/jibbbb1234) or [Discord](https://discordhub.com/profile/1066778132033573054).
 
