@@ -1,8 +1,8 @@
 ### Me!
 
-Hey, I'm Isaac, a 16-year-old software developer from Dorset, England.
+Hey, I'm Joseph, a 16-year-old software developer from Dorset, England.
 
-I love computers and creating software for various uses. I'm skilled in a plethora of areas, and I'm open to freelancing. I commonly work with low-level languages, and I also explore cybersecurity and web development from time to time.
+I love computers and creating software for various uses. I'm skilled in a plethora of areas. I commonly work with low-level languages and also explore cybersecurity and web development from time to time.
 
 ---
 
